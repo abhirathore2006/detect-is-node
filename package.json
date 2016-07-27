@@ -1,0 +1,22 @@
+{
+  "name": "detect-is-node",
+  "version": "1.0.0",
+  "description": "check if running under node environment or browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhirathore2006/detect-is-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Abhimanyu singh Rathore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhirathore2006/detect-is-node/issues"
+  },
+  "homepage": "https://github.com/abhirathore2006/detect-is-node#readme"
+}
