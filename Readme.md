@@ -13,7 +13,7 @@ npm install --save detect-is-node
 ```js
 var isNode = require('detect-is-node');
 
-if (isNode) {
+if (isNode()) {
   console.log("Running under node Environment");
 } else {
   console.log("Running in browser");
