@@ -1,14 +1,14 @@
-you can use this module to detect if your code is running on node server.
+# Detect Is Node
 
-E.g.  var isNode = require('detect-is-node');
+You can use this module to detect if your code is running in the browser or on a Node.JS server.
 
-install
+# Install
 
 ```shell
 npm install --save detect-is-node
 ```
 
-###Usage:
+# Usage:
 
 ```js
 var isNode = require('detect-is-node');
@@ -18,3 +18,4 @@ if (isNode()) {
 } else {
   console.log("Running in browser");
 }
+```
